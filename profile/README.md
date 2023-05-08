@@ -25,6 +25,6 @@ A seguir estão os trabalhos desenvolvidos pelo grupo:
 ## MPRISCV/RISCV
 | Projeto | Placa |     Plataforma    | Xilinx Tools | 
 | :-------- | :--------: | :--------: | :----------:  | 
-| [Tile **](https://github.com/EmbeddedComputing/sriscv)  |  MiniZed  | Baremetal | Vivado & Vitis 2022.2 |
+| [A Single Tile:<br>(RISCV,router & PM)](https://github.com/EmbeddedComputing/sriscv)  |  MiniZed  | Baremetal | Vivado & Vitis 2022.2 |
 | [MPRISCV](https://github.com/EmbeddedComputing/mpriscv)  |  ZCU104  | Baremetal | Vivado & Vitis 2022.2 |
 | [MPRISCV](https://github.com/EmbeddedComputing/reconfigurable-camera-desatualizada)  |  ZCU104  | Linux | Vivado & Vitis 2022.2 <br> Linux tbd |
