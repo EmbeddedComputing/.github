@@ -15,14 +15,14 @@ A seguir estão os trabalhos desenvolvidos pelo grupo:
 | [Camera VDMA <br> desatualizada](https://github.com/EmbeddedComputing/reconfigurable-camera-desatualizada)  |  MiniZed  | Baremetal | Vivado & SDK 2019.1 |
 | [Camera VDMA <br>RGB565](https://github.com/EmbeddedComputing/Reconfigurable-Camera-RGB565)  |  MiniZed  | Baremetal | Vivado & SDK 2019.1 | 
 
-###Aplicações
+### Aplicações
 | Projeto | Placa |     Plataforma    | Xilinx Tools | 
 | :-------- | :--------: | :--------: | :----------:  | 
 | [Camera Face<br> Detection](https://github.com/EmbeddedComputing/Face-Detection.)  | ZedBoard  | Baremetal | Vivado, Vivado HLS, SDK &<br> Petalinux 2019.1 | 
 | [Camera Face<br> Detection](https://github.com/EmbeddedComputing/Face-Detection.)  |  MiniZed  | OS | Vivado & Petalinux 2019.2 | 
 
 
-### MPRISCV/RISCV
+## MPRISCV/RISCV
 | Projeto | Placa |     Plataforma    | Xilinx Tools | 
 | :-------- | :--------: | :--------: | :----------:  | 
 | [Tile **](https://github.com/EmbeddedComputing/sriscv)  |  MiniZed  | Baremetal | Vivado & Vitis 2022.2 |
