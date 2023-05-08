@@ -18,7 +18,7 @@ A seguir estão os trabalhos desenvolvidos pelo grupo:
 ### Aplicações
 | Projeto | Placa |     Plataforma    | Xilinx Tools | 
 | :-------- | :--------: | :--------: | :----------:  | 
-| [Camera Face<br> Detection](https://github.com/EmbeddedComputing/Face-Detection.)  | ZedBoard  | Baremetal | Vivado, Vivado HLS, SDK &<br> Petalinux 2019.1 | 
+| [Image Encryption<br> Chua Chaos](https://github.com/EmbeddedComputing/Face-Detection.)  | ZedBoard  | Baremetal | Vivado, Vivado HLS, SDK &<br> Petalinux 2019.1 | 
 | [Camera Face<br> Detection](https://github.com/EmbeddedComputing/Face-Detection.)  |  MiniZed  | OS | Vivado & Petalinux 2019.2 | 
 
 
